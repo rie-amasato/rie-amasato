@@ -1,16 +1,12 @@
-### Hi there 👋
+Pythonが好き  
+最近はAWSに関して触り始めている  
 
-<!--
-**rie-amasato/rie-amasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+こんなものを作っています  
+更新するたびに変化する迷路
+- 使っているもの
+  - 壁伸ばし方(迷路の自動生成)
+  - FlaskでSVGとして返すAPIにする
+  - Fly.ioでホスティング   
+ 
+![svg_mage](https://rieama.fly.dev/imgapi-mage/19.svg)
