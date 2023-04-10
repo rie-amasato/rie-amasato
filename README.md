@@ -1,8 +1,7 @@
 Pythonが好き  
 最近はクラウドサービスに関して触り始めている  
 
----
-こんなものを作っています  
+### こんなものを作っています  
 更新するたびに変化する迷路
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
@@ -10,3 +9,13 @@ Pythonが好き
   - Fly.ioでホスティング   
  
 ![svg_mage](https://rieama.fly.dev/imgapi-mage/19.svg)
+
+---
+こうもりの群れもどき
+- 使っているもの
+  - アルゴリズムはBoidモデル
+  - JavaScript
+  - github.ioで公開
+
+https://rie-amasato.github.io/Bat_roid/  
+<img src="https://raw.githubusercontent.com/rie-amasato/Bat_roid/main/3E675A23-BCD0-445F-88A5-0C767BD47A50.jpeg" height=200>
