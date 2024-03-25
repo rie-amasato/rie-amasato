@@ -1,5 +1,6 @@
 Nuxt3とPythonが好き  
-最近はフロントにCloudFlare、バックにfly.io、データベースにPlanetScaleを使って遊んでいる  
+最近はフロントにCloudFlare、バックにfly.io、データベースにKoyebを使って遊んでいる  
+ちょっとPaaSを色々使って遊んでる  
 
 ### こんなものを作っています  
 更新するたびに変化する迷路
