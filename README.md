@@ -3,6 +3,16 @@ Nuxt3とPythonが好き
 ちょっとPaaSを色々使って遊んでる  
 
 ### こんなものを作っています  
+fAke Pedia（ハルシネーション鑑賞ページ）
+- 使っているもの
+  - フロント: Nuxt3
+    - Cloudflareにデプロイ
+  - バック: flaskでGeminiのAPIを叩いて嘘を出力するプロンプトを実行
+    - fly.ioにデプロイ
+
+https://fakepedia.pages.dev
+
+---
 更新するたびに変化する迷路
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
