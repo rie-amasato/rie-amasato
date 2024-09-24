@@ -17,9 +17,9 @@ https://fakepedia.pages.dev
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
   - FlaskでSVGとして返すAPIにする
-  - Fly.ioでホスティング   
+  - Dockerfileを使ってKoyebでホスティング   
  
-![svg_mage](https://rieama.fly.dev/imgapi-mage/19.svg)
+![svg_mage](https://secure-olimpia-shihoaka-fd09df42.koyeb.app/imgapi-mage/19.svg)
 
 ---
 こうもりの群れもどき
