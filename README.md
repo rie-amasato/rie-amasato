@@ -8,7 +8,7 @@ fAke Pedia（ハルシネーション鑑賞ページ）
   - フロント: Nuxt3
     - Cloudflareにデプロイ
   - バック: flaskでGeminiのAPIを叩いて嘘を出力するプロンプトを実行
-    - fly.ioにデプロイ
+    - koyebにデプロイ
 
 https://fakepedia.pages.dev
 
