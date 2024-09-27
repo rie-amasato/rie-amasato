@@ -1,5 +1,5 @@
 Nuxt3とPythonが好き  
-最近はフロントにCloudFlare、バックにfly.io、データベースにKoyebを使って遊んでいる  
+最近はフロントにCloudFlare、バックとかデータベースににfly.ioやらKoyebを使って遊んでいる  
 ちょっとPaaSを色々使って遊んでる  
 
 ### こんなものを作っています  
