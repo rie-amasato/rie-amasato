@@ -17,7 +17,7 @@ https://fakepedia.pages.dev
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
   - FlaskでSVGとして返すAPIにする
-  - Dockerfileを使ってKoyebでホスティング   
+  - Dockerfileを使ってKoyebでホスティング、GithubのMarkdownで毎回リロードされるようにキャッシュ関連の設定を調整   
  
 ![svg_mage](https://secure-olimpia-shihoaka-fd09df42.koyeb.app/imgapi-mage/19.svg)
 
