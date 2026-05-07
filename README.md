@@ -7,13 +7,13 @@ fAke Pedia（ハルシネーション鑑賞ページ）
 - 使っているもの
   - フロント: Nuxt3
     - Cloudflareにデプロイ
-  - バック: flaskでGeminiのAPIを叩いて嘘を出力するプロンプトを実行
+  - バック: flaskでGeminiのAPIを叩いて嘘を出力・ストリーミングとして取得
     - koyebにデプロイ
 
 https://fakepedia.pages.dev
 
 ---
-更新するたびに変化する迷路
+更新するたびに変化する迷路（緑が地面で黒が壁）
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
   - FlaskでSVGとして返すAPIにする
