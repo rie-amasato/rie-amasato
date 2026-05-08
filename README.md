@@ -3,7 +3,8 @@ Nuxt3とPythonが好き
 ちょっとPaaSを色々使って遊んでる  
 
 ### こんなものを作っています  
-fAke Pedia（ハルシネーション鑑賞ページ）
+###### fAkePedia
+ハルシネーションを鑑賞するページ
 - 使っているもの
   - フロント: Nuxt3
     - Cloudflareにデプロイ
@@ -16,7 +17,7 @@ https://fakepedia.pages.dev
 https://fakepedia.pages.dev/history/256
 
 ---
-AmaSugar
+###### AmaSugar
 TailwindみたくCSSフレームワーク。
 自前で使う際に簡単に使えるようにnpmライブラリ化しています。
 https://amasugar.pages.dev/ils-food-cake
