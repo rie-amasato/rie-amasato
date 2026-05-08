@@ -12,6 +12,9 @@ fAke Pedia（ハルシネーション鑑賞ページ）
 
 https://fakepedia.pages.dev
 
+↓geminiのFree tireだもんでレート制限やら混雑時でうまく動かない時のサンプル用もとい生成履歴機能。
+https://fakepedia.pages.dev/history/256
+
 ---
 更新するたびに変化する迷路（緑が地面で黒が壁）
 - 使っているもの
