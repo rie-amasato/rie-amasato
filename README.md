@@ -16,6 +16,15 @@ https://fakepedia.pages.dev
 https://fakepedia.pages.dev/history/256
 
 ---
+AmaSugar
+TailwindみたくCSSフレームワーク。
+自前で使う際に簡単に使えるようにnpmライブラリ化しています。
+https://amasugar.pages.dev/ils-food-cake
+
+↓npmjsのリンク
+https://www.npmjs.com/package/amasugar
+
+---
 更新するたびに変化する迷路（緑が地面で黒が壁）
 - 使っているもの
   - 壁伸ばし方(迷路の自動生成)
